@@ -1,9 +1,13 @@
 # COVID-19_Trends
 Data Analysis and Visualizations with Python and Pandas
 
-The objective of this analysis is to compare daily COVID-19 data. The analysis looks at daily new cases, daily active cases and daily new deaths and comapres them worldwide and within certain countries.
+This analysis addresses two questions about global COVID-19 data trends. First, what are the trends and relationships between new cases, active cases, and deaths worldwide? Second, how do these trends differ in the countries with the highest COVID-19 case counts compared to global patterns?
 
+![country_coorelations](https://github.com/user-attachments/assets/bb81e645-cf22-4312-9274-37fe67d6d54f)
 
+![worldwide_trends](https://github.com/user-attachments/assets/477acdf0-2bd6-4a3c-98a6-aaedef011a4a)
+
+The variation in death-case correlation across countries is notable. In some countries, death rates closely track case counts, while in others, deaths remain significantly lower. Analyzing the factors behind these differences could provide valuable insights into mitigating fatalities in future pandemics.
 
 The dataset used is titled "worldometer_coronavirus_daily_data.csv".
 Code for this analysys is titled "covid_trends.ipynb".
